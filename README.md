@@ -63,7 +63,6 @@ OBS: [Esse  dashboard](https://benubah.github.io/r-community-explorer/rladies.ht
 |10/10/2020| São Paulo + [LatinR](https://latin-r.com/pt) |  Apresentações com pacote xaringan | Previsto - Em breve |
 |10/10/2020| Belo Horizonte | Dados da Saúde Aplicados ao R | Previsto - Em breve |
 |09/10/2020| Natal | R para Ciências Humanas (Dplyr + Ggplot2) | [Meetup](https://www.meetup.com/rladies-natal/events/273270143/)|
-|06/10/2020| Rio de Janeiro | RMarkdown | Previsto - Em breve|
 |30/09/2020| Rio de Janeiro + [LatinR](https://latin-r.com/pt) |  Manuscritos acadêmicos usando o pacote RMarkdown | Previsto - Em breve |
 |26/09/2020| Goiânia | RMarkdown | [Sympla](https://www.sympla.com.br/urlAlias/render?alias=cursosonline) |
 |19/09/2020| Belo Horizonte | Curso - Sweeve (R + Latex) | [Sympla](https://www.sympla.com.br/we-r-ladies---curso-de-sweeve---r--latex__926022) |
